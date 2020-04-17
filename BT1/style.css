@@ -1,0 +1,35 @@
+.wapper-form{
+    width: 700px;
+    margin: auto;
+    height: 500px;
+    background-color: #f5f5f5;
+}
+.title{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+.table-form{
+    margin-left: 175px;
+    height: 250px;
+    width: 500px;
+}
+tr{
+    margin: 5px;
+}
+button{
+    margin-left: 250px;
+    margin-top: 20px;
+    padding: 6px 0;
+    font-size: 18px;
+    width: 200px;
+    text-align: center;
+    color: white;
+    background-color: #003366;
+    border: none;
+}
+button:hover{
+    transition: 0.2s;
+    background-color: blue;
+}

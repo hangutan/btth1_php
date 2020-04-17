@@ -1,0 +1,39 @@
+.wapper{
+    height: 500px;
+    width: 800px;
+    background-color: #f5f5f5;
+    margin: auto;
+}
+.title{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.k-form{
+    margin-left: 20px;
+}
+.table-form{
+    margin-left: 10px;
+    line-height: 40px;
+    height: 270px;
+    width: 800px;
+}
+.form-td{
+    margin-left: 200px;
+}
+button{
+    margin-left: 300px;
+    margin-top: 20px;
+    padding: 6px 0;
+    font-size: 18px;
+    width: 200px;
+    text-align: center;
+    color: white;
+    background-color: #003366;
+    border: none;
+}
+button:hover{
+    transition: 0.2s;
+    background-color: blue;
+}
